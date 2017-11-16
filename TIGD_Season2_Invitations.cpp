@@ -9,9 +9,9 @@
 + Pollapee
 + Borisut
 + Rati
-+ Warut + Rittiron 
++ Warut 
++ Rittiron 
 + Joe
 + Supachok
 + Twentysixkeys
 + Sahapat
-
