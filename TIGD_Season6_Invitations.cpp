@@ -1,4 +1,4 @@
 +Tle
-+Kittipong
++Kittipong [resigned]
 +Thirawat
 +Teppo
